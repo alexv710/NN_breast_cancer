@@ -1,3 +1,8 @@
 
 *.png
 x.pickle
+data.pkl
+patientData.pkl
+patientData.pkl
+*.pkl
+*.pkl
