@@ -9,3 +9,4 @@ patientData.pkl
 *.pkl
 *.pkl
 .ipynb_checkpoints
+.ipynb_checkpoints/nncancer-checkpoint.ipynb
