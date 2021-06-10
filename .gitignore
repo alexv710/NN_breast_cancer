@@ -1,4 +1,3 @@
-
 *.png
 x.pickle
 data.pkl
@@ -8,3 +7,4 @@ patientData.pkl
 *.pkl
 *.pkl
 *.pkl
+.ipynb_checkpoints
