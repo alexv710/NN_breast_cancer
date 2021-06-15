@@ -10,3 +10,4 @@ patientData.pkl
 *.pkl
 .ipynb_checkpoints
 .ipynb_checkpoints/nncancer-checkpoint.ipynb
+*.hdf5
