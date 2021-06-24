@@ -1,6 +1,6 @@
 # NN_breast_cancer
 
-The repo is structured as follwing:
+To get the repository running do the following steps:
 
 First create the conda environment to get all necessary python packages.
 
