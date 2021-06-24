@@ -5,7 +5,7 @@ The repo is structured as follwing:
 First create the conda environment to get all necessary python packages.
 
 ```
-conda env create --name nnseminar --file=tensorflow-gpu.yml
+conda env create --name nnseminar --file=tensorflow_gpu.yml
 
 ```
 
